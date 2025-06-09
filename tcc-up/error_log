@@ -1,0 +1,170 @@
+[09-Jun-2025 18:00:55 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/TCC/loginadm.php on line 25
+[09-Jun-2025 18:30:07 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 25
+[09-Jun-2025 18:30:12 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 25
+[09-Jun-2025 18:30:12 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(39): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:30:20 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 25
+[09-Jun-2025 18:30:20 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(39): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:31:38 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 25
+[09-Jun-2025 18:31:38 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(39): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:32:00 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 25
+[09-Jun-2025 18:32:00 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(39): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:34:05 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 26
+[09-Jun-2025 18:34:32 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 26
+[09-Jun-2025 18:34:32 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(40): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:34:57 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 26
+[09-Jun-2025 18:34:57 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(40): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:37:10 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 26
+[09-Jun-2025 18:37:18 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 26
+[09-Jun-2025 18:37:18 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(40): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:38:10 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 26
+[09-Jun-2025 18:38:10 America/Fortaleza] PHP Warning:  include_once(1): Failed to open stream: No such file or directory in /home2/popgiv08/public_html/tcc/loginadm.php on line 27
+[09-Jun-2025 18:38:10 America/Fortaleza] PHP Warning:  include_once(): Failed opening '1' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/popgiv08/public_html/tcc/loginadm.php on line 27
+[09-Jun-2025 18:38:15 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginadm.php on line 26
+[09-Jun-2025 18:38:15 America/Fortaleza] PHP Warning:  include_once(1): Failed to open stream: No such file or directory in /home2/popgiv08/public_html/tcc/loginadm.php on line 27
+[09-Jun-2025 18:38:15 America/Fortaleza] PHP Warning:  include_once(): Failed opening '1' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/popgiv08/public_html/tcc/loginadm.php on line 27
+[09-Jun-2025 18:38:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "autenticacao" not found in /home2/popgiv08/public_html/tcc/loginadm.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/popgiv08/public_html/tcc/loginadm.php on line 40
+[09-Jun-2025 18:40:12 America/Fortaleza] PHP Warning:  include_once(1): Failed to open stream: No such file or directory in /home2/popgiv08/public_html/tcc/loginadm.php on line 29
+[09-Jun-2025 18:40:12 America/Fortaleza] PHP Warning:  include_once(): Failed opening '1' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/popgiv08/public_html/tcc/loginadm.php on line 29
+[09-Jun-2025 18:40:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "autenticacao" not found in /home2/popgiv08/public_html/tcc/loginadm.php:42
+Stack trace:
+#0 {main}
+  thrown in /home2/popgiv08/public_html/tcc/loginadm.php on line 42
+[09-Jun-2025 18:40:47 America/Fortaleza] PHP Warning:  include_once(1): Failed to open stream: No such file or directory in /home2/popgiv08/public_html/tcc/loginadm.php on line 28
+[09-Jun-2025 18:40:47 America/Fortaleza] PHP Warning:  include_once(): Failed opening '1' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/popgiv08/public_html/tcc/loginadm.php on line 28
+[09-Jun-2025 18:40:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "autenticacao" not found in /home2/popgiv08/public_html/tcc/loginadm.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/popgiv08/public_html/tcc/loginadm.php on line 41
+[09-Jun-2025 18:42:15 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(46): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:43:13 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(46): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:43:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(46): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:43:28 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(46): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:44:04 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(46): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:44:10 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'popgiv08_admin'@'localhost' to database 'tcc' in /home2/popgiv08/public_html/tcc/classes.php:76
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(76): PDO->__construct('mysql:host=loca...', 'popgiv08_admin', Object(SensitiveParameterValue))
+#1 /home2/popgiv08/public_html/tcc/loginadm.php(46): Connection->__construct()
+#2 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 76
+[09-Jun-2025 18:45:15 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/popgiv08/public_html/tcc/teste.php on line 10
+[09-Jun-2025 18:45:29 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/popgiv08/public_html/tcc/teste.php on line 10
+[09-Jun-2025 18:45:44 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/popgiv08/public_html/tcc/teste.php on line 10
+[09-Jun-2025 18:45:48 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/popgiv08/public_html/tcc/teste.php on line 10
+[09-Jun-2025 19:16:10 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/loginGarcom.php on line 26
+[09-Jun-2025 19:17:10 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logingarcom.php on line 26
+[09-Jun-2025 19:18:08 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logingarcom.php on line 26
+[09-Jun-2025 19:18:08 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/popgiv08/public_html/tcc/listadecomandas.php on line 6
+[09-Jun-2025 19:18:11 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logingarcom.php on line 26
+[09-Jun-2025 19:18:41 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logingarcom.php on line 26
+[09-Jun-2025 19:18:41 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/popgiv08/public_html/tcc/listadecomandas.php on line 6
+[09-Jun-2025 19:18:43 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logingarcom.php on line 26
+[09-Jun-2025 19:18:54 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logingarcom.php on line 26
+[09-Jun-2025 19:18:54 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/popgiv08/public_html/tcc/listadecomandas.php on line 6
+[09-Jun-2025 19:18:56 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logingarcom.php on line 26
+[09-Jun-2025 19:38:36 America/Fortaleza] PHP Parse error:  syntax error, unexpected variable "$comanda" in /home2/popgiv08/public_html/tcc/lista.php on line 144
+[09-Jun-2025 19:38:38 America/Fortaleza] PHP Parse error:  syntax error, unexpected variable "$comanda" in /home2/popgiv08/public_html/tcc/lista.php on line 144
+[09-Jun-2025 19:38:40 America/Fortaleza] PHP Parse error:  syntax error, unexpected variable "$comanda" in /home2/popgiv08/public_html/tcc/lista.php on line 144
+[09-Jun-2025 19:38:45 America/Fortaleza] PHP Parse error:  syntax error, unexpected variable "$comanda" in /home2/popgiv08/public_html/tcc/lista.php on line 144
+[09-Jun-2025 19:39:43 America/Fortaleza] PHP Parse error:  syntax error, unexpected variable "$comanda" in /home2/popgiv08/public_html/tcc/lista.php on line 144
+[09-Jun-2025 20:01:03 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/popgiv08/public_html/tcc/lista.php:54) in /home2/popgiv08/public_html/tcc/lista.php on line 86
+[09-Jun-2025 20:01:06 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logincliente.php on line 26
+[09-Jun-2025 20:01:17 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logincliente.php on line 26
+[09-Jun-2025 20:02:12 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/popgiv08/public_html/tcc/lista.php:54) in /home2/popgiv08/public_html/tcc/lista.php on line 86
+[09-Jun-2025 20:02:16 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logincliente.php on line 26
+[09-Jun-2025 20:03:28 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/popgiv08/public_html/tcc/lista.php:54) in /home2/popgiv08/public_html/tcc/lista.php on line 86
+[09-Jun-2025 20:11:07 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logincliente.php on line 26
+[09-Jun-2025 20:11:21 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logincliente.php on line 26
+[09-Jun-2025 20:13:07 America/Sao_Paulo] PHP Warning:  Undefined array key "adm" in /home2/popgiv08/public_html/tcc/lista.php on line 43
+[09-Jun-2025 20:13:07 America/Sao_Paulo] PHP Warning:  Undefined variable $id_cliente in /home2/popgiv08/public_html/tcc/lista.php on line 48
+[09-Jun-2025 20:13:07 America/Sao_Paulo] PHP Warning:  Undefined variable $id_atendente in /home2/popgiv08/public_html/tcc/lista.php on line 48
+[09-Jun-2025 20:13:07 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_cliente' cannot be null in /home2/popgiv08/public_html/tcc/classes.php:95
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(95): PDOStatement->execute(Array)
+#1 /home2/popgiv08/public_html/tcc/classes.php(221): Connection->insert('comandas', Array, Array)
+#2 /home2/popgiv08/public_html/tcc/lista.php(48): comanda->abrirComanda(Array)
+#3 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 95
+[09-Jun-2025 20:13:09 America/Sao_Paulo] PHP Warning:  Undefined array key "adm" in /home2/popgiv08/public_html/tcc/lista.php on line 43
+[09-Jun-2025 20:13:09 America/Sao_Paulo] PHP Warning:  Undefined variable $id_cliente in /home2/popgiv08/public_html/tcc/lista.php on line 48
+[09-Jun-2025 20:13:09 America/Sao_Paulo] PHP Warning:  Undefined variable $id_atendente in /home2/popgiv08/public_html/tcc/lista.php on line 48
+[09-Jun-2025 20:13:09 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_cliente' cannot be null in /home2/popgiv08/public_html/tcc/classes.php:95
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/classes.php(95): PDOStatement->execute(Array)
+#1 /home2/popgiv08/public_html/tcc/classes.php(221): Connection->insert('comandas', Array, Array)
+#2 /home2/popgiv08/public_html/tcc/lista.php(48): comanda->abrirComanda(Array)
+#3 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 95
+[09-Jun-2025 20:21:47 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logincliente.php on line 26
+[09-Jun-2025 20:22:20 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logincliente.php on line 28
+[09-Jun-2025 20:24:57 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logincliente.php on line 28
+[09-Jun-2025 20:25:16 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/popgiv08/public_html/tcc/logincliente.php on line 28
+[09-Jun-2025 20:25:18 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/popgiv08/public_html/tcc/listadecomandas.php on line 6
+[09-Jun-2025 20:27:31 America/Fortaleza] PHP Warning:  Undefined variable $id_cliente in /home2/popgiv08/public_html/tcc/lista.php on line 154
+[09-Jun-2025 20:27:31 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: comanda::confirmarPedido(): Argument #4 ($id_cliente) must be of type int, null given, called in /home2/popgiv08/public_html/tcc/lista.php on line 154 and defined in /home2/popgiv08/public_html/tcc/classes.php:247
+Stack trace:
+#0 /home2/popgiv08/public_html/tcc/lista.php(154): comanda->confirmarPedido(185, 22, 0, NULL, 'nao', 2, '2025-06-09 20:2...')
+#1 {main}
+  thrown in /home2/popgiv08/public_html/tcc/classes.php on line 247
